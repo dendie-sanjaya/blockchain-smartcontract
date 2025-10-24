@@ -120,8 +120,8 @@ This section how to file *.sol wil compile use remix
 
 ### 2.5. Interaction Phase
 
-1.  **`contact.js` Program (node.js Program)**:
-    * An external application (a **node.js** program named `contact.js`) is used to talk to the deployed contract.
+1.  **`contract.js` Program (node.js Program)**:
+    * An external application (a **node.js** program named `contract.js`) is used to talk to the deployed contract.
 
 ![ss](./ss/contact-js.png)
 
