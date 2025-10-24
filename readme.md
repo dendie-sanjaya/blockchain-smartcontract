@@ -1,24 +1,31 @@
 # Smart Contract Implementation In Blockchain
 
-This document explains the development and deployment flow for a simple **Smart Contract** called `propertPrice`. This project uses popular Ethereum ecosystem tools like **Ganache**, **Remix Ethereum**, and **Metamask** to deploy the contract onto a local blockchain network.
+This document explains the development and deployment flow for a simple **Smart Contract** called `propertPrice`. This project uses popular Ethereum ecosystem tools like **Ganache**, **Remix Ethereum**, and **Metamask** to deploy the contract into a local blockchain network.
 
 # Table of Contents
 
 1. Core Concepts
+   
 1.1. Blockchain](#11-blockchain-🔗
+
 1.2. Smart Contract](#12-smart-contract
-2. Alur Kerja Implementasi (Deployment Flow)
+
+1. Alur Kerja Implementasi (Deployment Flow)
+
 2.1. Persiapan Jaringan dan Akun](#21-persiapan-jaringan-dan-akun)
+
 2.2. Pengembangan dan Kompilasi (Remix)](#22-pengembangan-dan-kompilasi-remix)
+
 2.3. Deployment (Penyebaran Kontrak)](#23-deployment-penyebaran-kontrak)
+
 2.4. Interaksi (Memanggil Smart Contract)](#24-interaksi-memanggil-smart-contract)
+
 3. Demo Video
 
 ## Github Sourcecode
 
 | Item | Value |
 | :--- | :--- |
-| **GitHub Repository Smart Contract** | https://github.com/dendie-sanjaya/blockchain-smartcontract |
 | **GitHub Repository Blockchain Network Use Ganance** | https://github.com/dendie-sanjaya/blockchain-web3-money |
 
 ## 1. Core Concepts
