@@ -6,19 +6,19 @@ This document explains the development and deployment flow for a simple **Smart 
 
 1. Core Concepts
    
-   1.1. Blockchain](#11-blockchain-🔗
+   1.1. Blockchain
 
-   1.2. Smart Contract](#12-smart-contract
+   1.2. Smart Contract
 
 2. Alur Kerja Implementasi (Deployment Flow)
 
-   2.1. Persiapan Jaringan dan Akun](#21-persiapan-jaringan-dan-akun)
+   2.1. Persiapan Jaringan dan Akun
 
-   2.2. Pengembangan dan Kompilasi (Remix)](#22-pengembangan-dan-kompilasi-remix)
+   2.2. Pengembangan dan Kompilasi (Remix)
 
-   2.3. Deployment (Penyebaran Kontrak)](#23-deployment-penyebaran-kontrak)
+   2.3. Deployment (Penyebaran Kontrak)
 
-   2.4. Interaksi (Memanggil Smart Contract)](#24-interaksi-memanggil-smart-contract)
+   2.4. Interaksi (Memanggil Smart Contract)
 
 3. Demo Video
 
