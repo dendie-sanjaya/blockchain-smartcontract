@@ -2,15 +2,18 @@
 
 This document explains the development and deployment flow for a simple **Smart Contract** called `propertPrice`. This project uses popular Ethereum ecosystem tools like **Ganache**, **Remix Ethereum**, and **Metamask** to deploy the contract onto a local blockchain network.
 
+# Table of Contents
+
 ## 1. Core Concepts
-### 1.1. Blockchain 🔗
-### 1.2. Smart Contract 💡
+* ### 1.1. Blockchain 🔗
+* ### 1.2. Smart Contract 💡
 
 ## 2. Alur Kerja Implementasi (Deployment Flow)
-### 2.1. Persiapan Jaringan dan Akun
-### 2.2. Pengembangan dan Kompilasi (Remix)
-### 2.3. Deployment (Penyebaran Kontrak)
-### 2.4. Interaksi (Memanggil Smart Contract)
+* ### 2.1. Persiapan Jaringan dan Akun
+* ### 2.2. Pengembangan dan Kompilasi (Remix)
+* ### 2.3. Deployment (Penyebaran Kontrak)
+* ### 2.4. Interaksi (Memanggil Smart Contract)
+
 ## 3. Demo Video
 
 ## Github Sourcecode
@@ -26,7 +29,7 @@ Before diving into the steps, let's briefly understand the two main technologies
 
 ### What is Blockchain? 🔗
 
-**Blockchain** is a distributed and secure database (ledger).
+**Blockchain** is a distributed and secure database (ledger
 
 * **Simple Definition**: It is a digital record book shared among many computers.
 * **Key Features**:
@@ -48,7 +51,7 @@ A **Smart Contract** is a piece of code stored on the blockchain that automatica
 
 Our file, `propertyPrice.sol`, is an example of a Smart Contract.
 
-***
+
 
 ## 2. Diagram Flow Explanation
 
@@ -68,7 +71,7 @@ This section how integration account & balace account in Blockchain Network  to 
 
 ![ss](./ss/2-metmask.png)
 
-![ss](./ss/3-metmask.png)
+![ss](./ss/3-metamask.png)
 
 ![ss](./ss/4-metmask.png)
 
@@ -122,9 +125,9 @@ This section how to file *.sol wil compile use remix
     * The **node.js** program calls functions inside the **Smart Contract `PropertyPrice`** (e.g., to record a new price or read existing data).
     * All these interactions are secure and permanently recorded on the **Blockchain Network**.
 
-![ss](./ss/8-test-call-smartcontract.png.png)
+![ss](./ss/8-test-call-smartcontract.png)
 
 
 ## 3. Video Demo Smartcontract
 
-This is video smartcontract -> ![ss](./video/smart-contract.mp4)
+This is video smartcontract -> ![Video ](./video/smart-contract.mp4)
